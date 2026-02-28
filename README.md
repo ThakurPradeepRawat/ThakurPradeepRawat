@@ -12,7 +12,10 @@ I specialize in building scalable, high-concurrency enterprise backend systems a
 - 📫 How to reach me: p.s.rawat4458@gmail.com
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thakur-pradeep-rawat) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Pradeep1195) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:p.s.rawat4458@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thakur-pradeep-rawat) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Pradeep1195) 
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/thakurpradeep) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:p.s.rawat4458@gmail.com)
 
 ---
 
