@@ -30,10 +30,15 @@ I specialize in building scalable, high-concurrency enterprise backend systems a
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThakurPradeepRawat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ThakurPradeepRawat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThakurPradeepRawat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ThakurPradeepRawat&show_icons=true&theme=tokyonight)
+
+![](https://nirzak-streak-stats.vercel.app/?user=ThakurPradeepRawat&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThakurPradeepRawat&layout=compact&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=ThakurPradeepRawat&label=Profile%20Views&color=blueviolet&style=flat)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ThakurPradeepRawat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
