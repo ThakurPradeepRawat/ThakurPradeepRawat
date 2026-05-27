@@ -1,9 +1,9 @@
 # 💫 About Me
 
-<h1 align="center">Hi 👋, I'm Pradeep Rawat</h1>
-<h3 align="center">Software Engineering Intern @ L&T Construction | Backend & System Design Enthusiast</h3>
+<h1 >Hi 👋, I'm Pradeep Rawat</h1>
+<h3 >Software Engineering Intern @ L&T Construction | Backend & System Design Enthusiast</h3>
 
-<p align="center">
+<p >
 Passionate about building scalable enterprise applications, designing high-concurrency backend systems, and solving complex algorithmic problems.
 </p>
 
@@ -121,7 +121,7 @@ Passionate about building scalable enterprise applications, designing high-concu
 
 # 📈 Profile Views
 
-<p align="center">
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=ThakurPradeepRawat&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
@@ -129,7 +129,7 @@ Passionate about building scalable enterprise applications, designing high-concu
 
 # ✨ Random Dev Quote
 
-<p align="center">
+<p align="left>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
@@ -137,6 +137,6 @@ Passionate about building scalable enterprise applications, designing high-concu
 
 # 🔝 Top Contributed Repo
 
-<p align="center">
+<p align="left">
 <img src="https://github-contributor-stats.vercel.app/api?username=ThakurPradeepRawat&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
