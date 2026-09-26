@@ -133,10 +133,9 @@ CGPA: 8.51/10 · Graduated 2026
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thakur-pradeep-rawat&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThakurPradeepRawat&hide_border=true" height="165"/>
 </p>
 
-> **Note:** replace `thakur-pradeep-rawat` in the stats URLs above with your actual GitHub username if it differs, or these widgets won't render.
 
 ---
 
